@@ -134,6 +134,7 @@ body {
     height: 15rem;
     width: 24rem;
     transition: all 0.3s ease-in-out;
+    max-width: 55vw;
   }
   .algarve:hover {
     transform: scale(1.1);
